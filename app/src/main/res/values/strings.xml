@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DBApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Rating</string>
+    <string name="start">Start</string>
+    <string name="rating">Rating</string>
+    <string name="exit">Exit</string>
+</resources>
